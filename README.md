@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mo
+- 👀 I’m interested in null
+- 🌱 I’m currently learning null
+- 💞️ I’m looking to collaborate on null
+- 📫 How to reach me ~~null~~ hi@mss.me
